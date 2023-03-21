@@ -1,4 +1,4 @@
-#The Last Hope
+# The Last Hope
 
 DISCLAIMER: This mod will both need the latest versions of [MagmaLink](https://gitlab.com/jakzie2/awsw-magmalink) and [Kolsavdur's Core Mod](https://github.com/Kolsavdur/Kolsavdur-Core-Mod) in order to work.
 
